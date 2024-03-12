@@ -1,0 +1,6 @@
+{
+    "geoserver_base_url": "http://homo-piaucu.sema.mt.gov.br:8080/geoserver/rest/",
+    "geoserver_username": "admin",
+    "geoserver_password": "geoserver",
+    "workspace_name": "SIGALERTA"
+}
